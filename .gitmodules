@@ -1,0 +1,3 @@
+[submodule "max-exchange-api-python3"]
+	path = max-exchange-api-python3
+	url = https://github.com/kulisu/max-exchange-api-python3/
