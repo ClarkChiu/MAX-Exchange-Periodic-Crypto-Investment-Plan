@@ -1,6 +1,6 @@
 # 虛擬貨幣定期定額投資計畫
 
-## 當一個好 HOLDer，不好嗎？
+## 當一個好 HODLer，不好嗎？
 
 ![Hodl Meaning foto](https://en.bitcoinwiki.org/upload/en/images/thumb/d/db/HODLing.jpg/400px-HODLing.jpg)
 
