@@ -10,7 +10,7 @@
 
 ## 簡介
 
-你也想成為虛擬貨幣定期定額的 HODL 囤幣族嗎，來來來，趕緊使用此專案定期定額在 [MAX - 數位資產交易所](https://max.maicoin.com/) 購買虛擬貨幣
+你也想成為虛擬貨幣定期定額的 HODL 囤幣族嗎，來來來，趕緊使用此專案定期定額在 [MAX - 數位資產交易所](https://max.maicoin.com/) 購買虛擬貨幣，給你一個美夢。
 
 
 
@@ -24,7 +24,9 @@
 
 1. 假設您擁有一個可執行 Python 之環境（可能是您家中永不關機的電腦、Google Cloud Platform (GCP)、Amazon Web Services (AWS) 或是較進階的 GitHub Actions）
 
-2. 使用 Cron 定期呼叫本專案之程式，例如每隔 3 天執行之 crontab 設定如下（可使用 [Crontab.guru](https://crontab.guru/) 服務幫您做好正確的設定）
+2. 設定好 .env 檔案（請參考 [.env-sample](https://github.com/ClarkChiu/MAX-Exchange-Periodic-Crypto-Investment-Plan/blob/master/.env-sample)）
+
+3. 使用 Cron 定期呼叫本專案之程式，例如每隔 3 天執行之 crontab 設定如下（可使用 [Crontab.guru](https://crontab.guru/) 服務幫您做好正確的設定）
 
    `0 0 */3 * * python max_invest_bot\bot.py`
 
