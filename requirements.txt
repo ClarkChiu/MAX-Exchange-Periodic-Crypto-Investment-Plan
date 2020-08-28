@@ -1,7 +1,7 @@
 ﻿atomicwrites==1.4.0
 attrs==20.1.0
 colorama==0.4.3
-more-itertools==8.4.0
+more-itertools==8.5.0
 packaging==20.4
 pluggy==0.13.1
 py==1.9.0
