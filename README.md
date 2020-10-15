@@ -1,7 +1,9 @@
 # 虛擬貨幣定期定額投資計畫
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ClarkChiu/MAX-Exchange-Periodic-Crypto-Investment-Plan.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ClarkChiu/MAX-Exchange-Periodic-Crypto-Investment-Plan/context:python)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/ClarkChiu/MAX-Exchange-Periodic-Crypto-Investment-Plan.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ClarkChiu/MAX-Exchange-Periodic-Crypto-Investment-Plan/alerts/)
 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 
 ## 當一個好 HODLer，不好嗎？
