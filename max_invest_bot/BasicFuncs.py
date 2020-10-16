@@ -17,14 +17,11 @@ class BasicFuncs(object):
         self.client = Client(API_KEY, SECRET_KEY)
 
     def get_target_pair_current_price(self):
-        try:
-            current_k = self.client.get_public_k_line(self.PAIR, 1, 1)
-            timestamp = current_k[0][0]
-            open = current_k[0][1]
-            high = current_k[0][2]
-            low = current_k[0][3]
-            close = current_k[0][4]
-            volume = current_k[0][5]
-            return timestamp, open, high, low, close, volume
-        except Exception as e:
-            print(e)
+        current_k = self.client.get_public_k_line(self.PAIR, 1, 1)
+        timestamp = current_k[0][0]
+        open = current_k[0][1]
+        high = current_k[0][2]
+        low = current_k[0][3]
+        close = current_k[0][4]
+        volume = current_k[0][5]
+        return timestamp, open, high, low, close, volume

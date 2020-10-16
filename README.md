@@ -2,6 +2,7 @@
 
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ClarkChiu/MAX-Exchange-Periodic-Crypto-Investment-Plan.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ClarkChiu/MAX-Exchange-Periodic-Crypto-Investment-Plan/context:python)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/ClarkChiu/MAX-Exchange-Periodic-Crypto-Investment-Plan.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ClarkChiu/MAX-Exchange-Periodic-Crypto-Investment-Plan/alerts/)
+[![codecov](https://codecov.io/gh/ClarkChiu/MAX-Exchange-Periodic-Crypto-Investment-Plan/branch/master/graph/badge.svg?token=0XQP589944)](undefined)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
@@ -22,7 +23,7 @@
 
 ## MAX 交易所 API 設定及取得方式
 
-請參見 [MAX 交易所 API 文件](https://max.maicoin.com/documents/api) 
+請參見 [MAX 交易所 API 文件](https://max.maicoin.com/documents/api)
 
 
 
@@ -50,8 +51,8 @@
 3. 使用 Cron 定期呼叫本專案之程式（請注意需切換至專案路徑），例如每隔 3 天執行之 crontab 設定如下（可使用 [Crontab.guru](https://crontab.guru/) 服務幫您做好正確的設定）
 
    `0 0 */3 * * cd /home/clark/MAX-Exchange-Periodic-Crypto-Investment-Plan/; ./.venv/bin/python ./max_invest_bot/bot.py`
-   
-   
+
+
 
 ## 程式流程
 
@@ -76,4 +77,4 @@
 ## 聲明
 
 1. 世界上任何正當投資都具有投資風險，此一風險可能使本金發生虧損，投資人須自負盈虧。
-2. 本人與 MAX 交易所無任何關聯，此專案單純為推廣虛擬貨幣以及 HODL，相同之程式邏輯亦可套用於任何虛擬貨幣交易所。 
+2. 本人與 MAX 交易所無任何關聯，此專案單純為推廣虛擬貨幣以及 HODL，相同之程式邏輯亦可套用於任何虛擬貨幣交易所。
